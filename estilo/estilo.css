@@ -1,0 +1,61 @@
+body{
+    background-color: azure;
+}
+div{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+p{
+    font-size: 14px;
+    font-family: verdana;
+    padding: 20px;
+    color: blue;
+    text-align: center;
+    
+}
+h1{
+    font-size: 25px;
+    font-family: verdana;
+    text-align: center;
+    font-weight: normal;
+    color: blueviolet;
+}
+h2{
+    font-size: 17px;
+    font-family: verdana;
+    text-align: center;
+    border-top: 1px solid #010101;
+    border-bottom: 1px solid #010101;
+    font-weight: normal;
+    color: blueviolet;
+}
+h3{
+    font-family: verdana;
+    font-size: 16px;
+    font-weight: normal;
+    color: violet;
+}
+
+a {
+    text-decoration: none;
+    padding: 5px;
+    border: 1px solid #010101;
+    border-radius: 25px;
+    background-color: blueviolet;
+    color: blue;
+}
+img{
+    width: 300px;
+}
+span{
+    font-size: 16px;
+    font-family: verdana;
+    font-weight: bold;
+    color: blueviolet;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+.contato{
+    padding: 25px;
+}
